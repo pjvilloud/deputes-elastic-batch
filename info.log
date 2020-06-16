@@ -1,0 +1,274 @@
+2020-06-16 16:59:51 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 10492 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 16:59:51 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:00:29 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 7676 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:00:29 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:00:32 - INFO  - Started BatchsApplication in 3.686 seconds (JVM running for 5.161)
+2020-06-16 17:00:32 - INFO  - 0:NB_ECRITURES:0
+2020-06-16 17:00:32 - INFO  - 0:DUREE_TOTALE_SECONDES:0
+2020-06-16 17:00:32 - INFO  - 0:STATUT:FAILED
+2020-06-16 17:01:23 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 7112 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:01:23 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:01:26 - INFO  - Started BatchsApplication in 3.676 seconds (JVM running for 5.46)
+2020-06-16 17:01:26 - INFO  - 0:NB_ECRITURES:0
+2020-06-16 17:01:26 - INFO  - 0:DUREE_TOTALE_SECONDES:0
+2020-06-16 17:01:26 - INFO  - 0:STATUT:FAILED
+2020-06-16 17:02:13 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 2232 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:02:13 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:02:16 - INFO  - Started BatchsApplication in 3.703 seconds (JVM running for 5.27)
+2020-06-16 17:02:16 - INFO  - 0:NB_ECRITURES:0
+2020-06-16 17:02:16 - INFO  - 0:DUREE_TOTALE_SECONDES:0
+2020-06-16 17:02:16 - INFO  - 0:STATUT:FAILED
+2020-06-16 17:04:46 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 6792 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:04:46 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:04:49 - INFO  - Started BatchsApplication in 3.681 seconds (JVM running for 5.123)
+2020-06-16 17:04:49 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:50 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:51 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:52 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:53 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:54 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:55 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:55 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:55 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:55 - INFO  - 0:WRITE_DEPUTES:10
+2020-06-16 17:04:55 - INFO  - 0:NB_ECRITURES:610
+2020-06-16 17:04:55 - INFO  - 0:DUREE_TOTALE_SECONDES:5
+2020-06-16 17:04:55 - INFO  - 0:STATUT:COMPLETED
+2020-06-16 17:25:11 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 3760 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:25:11 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:25:52 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 120 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:25:53 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:28:16 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 11848 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:28:16 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:28:20 - INFO  - Started BatchsApplication in 4.294 seconds (JVM running for 5.985)
+2020-06-16 17:28:20 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:20 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:21 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:22 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:23 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:24 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:25 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:26 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:26 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:28:26 - INFO  - null:0:NB_ECRITURES:610
+2020-06-16 17:28:26 - INFO  - null:0:DUREE_TOTALE_SECONDES:5
+2020-06-16 17:28:26 - INFO  - null:0:STATUT:COMPLETED
+2020-06-16 17:28:26 - INFO  - null:1:NB_ECRITURES:0
+2020-06-16 17:28:26 - INFO  - null:1:DUREE_TOTALE_SECONDES:0
+2020-06-16 17:28:26 - INFO  - null:1:STATUT:FAILED
+2020-06-16 17:30:03 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 5128 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:30:03 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:30:07 - INFO  - Started BatchsApplication in 4.667 seconds (JVM running for 7.368)
+2020-06-16 17:30:31 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:30:56 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 3948 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:30:56 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:31:00 - INFO  - Started BatchsApplication in 4.524 seconds (JVM running for 6.798)
+2020-06-16 17:31:07 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:56:24 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 1344 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:56:24 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:57:08 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 9128 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:57:08 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:58:00 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 9112 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:58:00 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:58:03 - INFO  - Started BatchsApplication in 4.333 seconds (JVM running for 6.4)
+2020-06-16 17:58:08 - INFO  - null:0:NB_ECRITURES:0
+2020-06-16 17:58:08 - INFO  - null:0:DUREE_TOTALE_SECONDES:4
+2020-06-16 17:58:08 - INFO  - null:0:STATUT:FAILED
+2020-06-16 17:58:08 - INFO  - null:1:NB_ECRITURES:0
+2020-06-16 17:58:08 - INFO  - null:1:DUREE_TOTALE_SECONDES:0
+2020-06-16 17:58:08 - INFO  - null:1:STATUT:FAILED
+2020-06-16 17:58:51 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 8020 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 17:58:51 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 17:58:54 - INFO  - Started BatchsApplication in 4.49 seconds (JVM running for 6.422)
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:35 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:36 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:37 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:38 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:39 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:40 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:41 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:41 - INFO  - null:0:WRITE_DEPUTES:10
+2020-06-16 17:59:41 - INFO  - null:0:NB_ECRITURES:610
+2020-06-16 17:59:41 - INFO  - null:0:DUREE_TOTALE_SECONDES:6
+2020-06-16 17:59:41 - INFO  - null:0:STATUT:COMPLETED
+2020-06-16 17:59:58 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:50
+2020-06-16 17:59:59 - INFO  - null:1:WRITE_DEPUTES_ACTIVITE:10
+2020-06-16 17:59:59 - INFO  - null:1:NB_ECRITURES:610
+2020-06-16 17:59:59 - INFO  - null:1:DUREE_TOTALE_SECONDES:1
+2020-06-16 17:59:59 - INFO  - null:1:STATUT:COMPLETED
+2020-06-16 18:01:36 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 5728 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 18:01:36 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 18:01:40 - INFO  - Started BatchsApplication in 4.662 seconds (JVM running for 6.769)
+2020-06-16 18:03:01 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 2044 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 18:03:01 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 18:03:05 - INFO  - Started BatchsApplication in 5.07 seconds (JVM running for 7.025)
+2020-06-16 18:04:25 - INFO  - Starting BatchsApplication on DESKTOP-0SNUGLG with PID 12864 (C:\Users\p.villoud\Dev\ipi\batchs\batchs\target\classes started by p.villoud in C:\Users\p.villoud\Dev\ipi\batchs\batchs)
+2020-06-16 18:04:25 - INFO  - No active profile set, falling back to default profiles: default
+2020-06-16 18:04:30 - INFO  - Started BatchsApplication in 5.29 seconds (JVM running for 7.546)
