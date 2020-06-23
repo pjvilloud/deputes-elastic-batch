@@ -16,7 +16,7 @@ public class DeputeStepListener implements StepExecutionListener {
 
     @Override
     public ExitStatus afterStep(StepExecution stepExecution) {
-        logger.info(stepExecution.getJobExecution().getJobConfigurationName()+":"+stepExecution.getJobExecution().getJobId()+":NB_ECRITURES:" + stepExecution.getWriteCount());
+        logger.info(stepExecution.getJobExecution().getJobInstance().getJobName()+":"+stepExecution.getJobExecution().getJobId()+":NB_ECRITURES:" + stepExecution.getWriteCount());
         return ExitStatus.COMPLETED;
     }
 }

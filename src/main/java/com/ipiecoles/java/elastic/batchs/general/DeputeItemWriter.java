@@ -28,7 +28,7 @@ public class DeputeItemWriter implements ItemWriter<DeputeData> {
 
     @BeforeStep
     public void beforeStep(StepExecution stepExecution) {
-        jobName = stepExecution.getJobExecution().getJobConfigurationName();
+        jobName = stepExecution.getJobExecution().getJobInstance().getJobName();
         jobId = stepExecution.getJobExecution().getJobId();
     }
 }

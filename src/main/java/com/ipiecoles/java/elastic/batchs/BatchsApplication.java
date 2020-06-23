@@ -20,7 +20,9 @@ public class BatchsApplication {
 	public RestHighLevelClient client() {
 		ClientConfiguration clientConfiguration
 				= ClientConfiguration.builder()
-				.connectedTo("localhost:9200")
+				.connectedTo("070f25c0c48e4ea39e4c1b5c79c64b71.eu-west-2.aws.cloud.es.io:9243")
+				.usingSsl()
+				.withBasicAuth("elastic", "lpAhZZFnboDd8Kh8D9tsW2pF")
 				.build();
 
 		return RestClients.create(clientConfiguration).rest();

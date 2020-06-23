@@ -30,7 +30,7 @@ public class DeputeActiviteItemWriter implements ItemWriter<DeputeActivite> {
 
     @BeforeStep
     public void beforeStep(StepExecution stepExecution) {
-        jobName = stepExecution.getJobExecution().getJobConfigurationName();
+        jobName = stepExecution.getJobExecution().getJobInstance().getJobName();
         jobId = stepExecution.getJobExecution().getJobId();
     }
 }

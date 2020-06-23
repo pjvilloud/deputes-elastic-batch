@@ -11,11 +11,12 @@ public class DeputeBatchListener implements JobExecutionListener {
     private Logger logger = LoggerFactory.getLogger(this.getClass());
 
     public void beforeJob(JobExecution jobExecution) {
+        jobExecution.getJobInstance().getJobName();
     }
 
     @Override
     public void afterJob(JobExecution jobExecution) {
-        logger.info(jobExecution.getJobConfigurationName()+":"+jobExecution.getJobId()+":DUREE_TOTALE_SECONDES:" + Duration.ofMillis(jobExecution.getEndTime().getTime() - jobExecution.getStartTime().getTime()).toSecondsPart());
-        logger.info(jobExecution.getJobConfigurationName()+":"+jobExecution.getJobId()+":STATUT:" + jobExecution.getStatus().getBatchStatus());
+        logger.info(jobExecution.getJobInstance().getJobName()+":"+jobExecution.getJobId()+":DUREE_TOTALE_SECONDES:" + Duration.ofMillis(jobExecution.getEndTime().getTime() - jobExecution.getStartTime().getTime()).toSecondsPart());
+        logger.info(jobExecution.getJobInstance().getJobName()+":"+jobExecution.getJobId()+":STATUT:" + jobExecution.getStatus().getBatchStatus());
     }
 }

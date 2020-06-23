@@ -26,7 +26,7 @@
         <file>info.log</file>
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
             <Pattern>
-                %d{yyyy-MM-dd HH:mm:ss} - %-5level - %msg%n
+                %d{yyyy-MM-dd HH:mm:ss} - %level - %msg%n
             </Pattern>
         </encoder>
 

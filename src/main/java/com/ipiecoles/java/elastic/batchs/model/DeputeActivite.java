@@ -3,7 +3,12 @@ package com.ipiecoles.java.elastic.batchs.model;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
 import org.springframework.data.annotation.Id;
+import org.springframework.data.elasticsearch.annotations.DateFormat;
 import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
+
+import java.time.LocalDate;
 
 @Document(indexName = "activite")
 @JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy.class)
@@ -12,6 +17,7 @@ public class DeputeActivite {
     @Id
     private String id;
     private String nom;
+    private String date;
     private String groupe;
     private Integer semainesPresence;
     private Integer commissionPresences;
@@ -26,14 +32,6 @@ public class DeputeActivite {
     private Integer propositionsSignees;
     private Integer questionsEcrites;
     private Integer questionsOrales;
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
 
     public String getNom() {
         return nom;
@@ -153,6 +151,22 @@ public class DeputeActivite {
 
     public void setGroupe(String groupe) {
         this.groupe = groupe;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String  getDate() {
+        return date;
+    }
+
+    public void setDate(String  date) {
+        this.date = date;
     }
 }
 
