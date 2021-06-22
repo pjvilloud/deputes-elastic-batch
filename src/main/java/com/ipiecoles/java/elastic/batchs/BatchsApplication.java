@@ -20,9 +20,10 @@ public class BatchsApplication {
 	public RestHighLevelClient client() {
 		ClientConfiguration clientConfiguration
 				= ClientConfiguration.builder()
-				.connectedTo("070f25c0c48e4ea39e4c1b5c79c64b71.eu-west-2.aws.cloud.es.io:9243")
+				.connectedTo("pjvilloud-elastic.es.us-west1.gcp.cloud.es.io:9243")
+				//.connectedTo("f1a1408f838a4e3aaf68ec4cf1b665f7.eu-west-2.aws.cloud.es.io:9243")
 				.usingSsl()
-				.withBasicAuth("elastic", "lpAhZZFnboDd8Kh8D9tsW2pF")
+				.withBasicAuth("elastic", "H3VCkR8qnHL7WVuTqv5j34An")
 				.build();
 
 		return RestClients.create(clientConfiguration).rest();
